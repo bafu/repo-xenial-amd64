@@ -1,0 +1,7 @@
+Origin: Bofu Chen
+Label: Bofu Github
+Suite: stable
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: Debian packages hosted on Bofu github repository

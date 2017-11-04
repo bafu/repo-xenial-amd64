@@ -1,0 +1,20 @@
+Origin: Bofu Chen
+Label: Bofu Github
+Suite: stable
+Codename: xenial
+Date: Sat, 04 Nov 2017 13:46:06 UTC
+Architectures: amd64
+Components: main
+Description: Debian packages hosted on Bofu github repository
+MD5Sum:
+ ae6280ff38a617384c59929aa7a32230 793 main/binary-amd64/Packages
+ 3160fbf97a71b3e0ab342b2483ffe61f 524 main/binary-amd64/Packages.gz
+ ccbc9995255a0dd9ea6eaa0f1899af15 151 main/binary-amd64/Release
+SHA1:
+ 9c4a23a1c196757f325a833835c6d73b2753b33a 793 main/binary-amd64/Packages
+ c633322d357c655c8c331c7ee47507d2a2e3f1a4 524 main/binary-amd64/Packages.gz
+ 48b6b9b313f4ebc4d0f7b473509a497505772b19 151 main/binary-amd64/Release
+SHA256:
+ c918bb5ae230a09eb9bcaeeaa81f3751c4505b33756a4948bd9546ac98c76add 793 main/binary-amd64/Packages
+ db493e0fbdffd4c57b60d6c44b142e5382d6280ea4e92453670689130912be14 524 main/binary-amd64/Packages.gz
+ 129786cf24965d670b3c30651453c73d2bd4bec658a4d5e0ab96347355ca482a 151 main/binary-amd64/Release

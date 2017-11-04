@@ -1,0 +1,22 @@
+Package: dlmodelbox
+Version: 0.1.2-2
+Architecture: all
+Maintainer: Bofu Chen (bafu) <bofu@dt42.io>
+Installed-Size: 22
+Depends: python3:any
+Homepage: http://github.com/DT42/DLModelBox
+Priority: optional
+Section: science
+Filename: pool/main/d/dlmodelbox/dlmodelbox_0.1.2-2_all.deb
+Size: 6088
+SHA256: 416907b9a55c2f8bc245d6b1395aae87012adc0805fd1a61b401df4063303d4e
+SHA1: 027fc0756ce6fdd04c6dc1b9dac9ef93f2e12639
+MD5sum: 4e21cb9a6984a12bce8c95d1efe309a7
+Description: Swiss Army Knife of Deep Learning Models
+ DLModelBox provides utilities to help create and manage DL model
+ packages.
+ .
+ There is not an unified specification for the format of deep learning
+ model package format currently. DLModelBox defines a specification, and
+ helps user to create model packages and manage models easier.
+

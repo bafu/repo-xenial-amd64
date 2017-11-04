@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Bofu Chen
+Label: Bofu Github
+Architecture: amd64
+Description: Debian packages hosted on Bofu github repository
