@@ -15,6 +15,7 @@
     Components: main
     Description: Debian packages hosted on Bofu github repository
     SignWith: 3FB8B4C2
+    EOF
     
     $ reprepro includedeb xenial <pkg-path>
     ```
@@ -25,6 +26,7 @@
     ```
     $ sudo cat <<EOF > /etc/apt/sources.list.d/<src-list>
     deb [arch=amd64] https://raw.githubusercontent.com/bafu/repo-xenial-amd64/master xenial main
+    EOF
     ```
 
 # References
